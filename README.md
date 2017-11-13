@@ -16,7 +16,7 @@ University of South Carolina\\
 http://mleg.cse.sc.edu
 
 
-##libBondGraph
+## libBondGraph
 This is a C++ library to create and simulate standard and hybrid bond graph. The library support XML input and output of the bond graph structure. Graphic representation of the bond graph in SVG are generated using the Graphviz library. 
 
 Features\\

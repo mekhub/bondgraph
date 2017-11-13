@@ -31,3 +31,9 @@ This is a C++ library to create and simulate standard and hybrid bond graph. The
 * author: Jean F. Dupuis
 
 Citation:Jean F. Dupuis, Zhun Fan, Erik Goodman, “Evolutionary Design of Both Topologies and Parameters of a Hybrid Dynamical System”, IEEE Trans. Evolutionary Computation 16(3): 391-405 (2012)
+
+
+## Hybrid Bond Graph evolution using Genetic Programming with Analog Filter example
+
+https://github.com/ComputationalIntelligenceAndMechatronics/HBGGP
+
